@@ -1,0 +1,19 @@
+{
+  "site": "www.ruslanyagafarov.com",
+  "adress": {
+    "streetAddress": "ул. Внеземная, 10",
+    "city": "Уфа"
+  },
+  "Users": [
+    {
+      "id": "01",
+      "name": "Ruslan",
+      "birthday": "02.02.2002"
+    },
+    {
+      "id": "02",
+      "name": "Roman",
+      "birthday": "02.02.2002"
+    }
+  ]
+}
